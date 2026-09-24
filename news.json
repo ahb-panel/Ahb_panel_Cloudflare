@@ -1,0 +1,14 @@
+{
+  "version": "1.0.2-ahb",
+  "changelog": "رفع باگ",
+  "workerUrl": "https://raw.githubusercontent.com/ahb-panel/Ahb_panel_Cloudflare/main/worker.js",
+  "news": [
+    {
+      "title": "آپدیت جدید",
+      "message": "پنل کامل شد و میتونید رمز عبور دلخواه وارد کنید و همچنین ساب های پنل به با سرعت بهتری کار میکنن",
+      "type": "urgent",
+      "color": "red",
+      "important": true
+    }
+  ]
+}
